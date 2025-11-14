@@ -1,0 +1,11 @@
+### Binary files.
+
+/*.zip
+/*.izz
+
+### Folders
+/.idea
+# 'Example' folders are used to collect for ZIP release on https://troikatronix.com/add-ons/
+/*Example*
+/HIDE
+/YouTube

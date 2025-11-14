@@ -1,0 +1,11 @@
+# Requirements for MediaPipe example project
+# Created with Pythoner 1.0.3 using Python 3.10.9
+
+# OpenCV for image processing
+opencv-python==4.7.0.72
+
+# MediaPipe for pose detection
+mediapipe==0.10.21
+
+# NumPy, required version for Isadora video support
+numpy==1.23.1
